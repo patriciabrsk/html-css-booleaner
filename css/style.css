@@ -10,6 +10,24 @@ header{
     height: 100px;
 }
 
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even){
+    background-color: #b1e5f2
+}    
+
+th{
+    background-color: #20a9e5;
+    color: #fff;
+}    
 
 #text{
     color: #808080;
