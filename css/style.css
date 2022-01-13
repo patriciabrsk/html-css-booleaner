@@ -10,6 +10,12 @@ header{
     background-repeat: repeat-x;
 }
 
+.booleaner-logo{
+    background-image: url("../img/pattern.png");
+    size: 20px;
+
+}
+
 table {
     border-collapse: collapse;
     width: 100%;
