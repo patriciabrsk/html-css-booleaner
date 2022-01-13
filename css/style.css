@@ -17,7 +17,7 @@ table {
 
 th, td {
     text-align: left;
-    padding: 8px;
+    padding: 10px;
 }
 
 tr:nth-child(even){
@@ -27,8 +27,16 @@ tr:nth-child(even){
 th{
     background-color: #20a9e5;
     color: #fff;
+    padding: 10px;
 }    
 
 #text{
     color: #808080;
+}
+
+.lorem-ipsum-dolor{
+    color: #fff;
+    position: relative;
+    top: 40px;
+    left: 16px;
 }
