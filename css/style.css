@@ -18,8 +18,12 @@ header{
 
 }
 
-author-name{
-    color
+.author{
+    color: lightgrey;
+    font-size: 18px;;
+}
+.author-name{
+    color: #20a9e5;
 }
 
 ul{
