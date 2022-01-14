@@ -19,11 +19,17 @@ header{
 }
 
 .author{
-    color: lightgrey;
+    color: grey;
     font-size: 18px;;
 }
 .author-name{
     color: #20a9e5;
+    font-size: ;
+}
+
+.date{
+    color: grey;
+    font-size: 12px;
 }
 
 ul{
