@@ -3,7 +3,7 @@ body{
 }
 
 header{
-    background-color:#4ea0ff ;
+    background-color:#4ea0ff;
     height: 100px;
     background-image: url("../img/pattern.png");
     background-size: 35%;
@@ -16,6 +16,10 @@ header{
     height: 50px;
     margin-left: 5px;
 
+}
+
+author-name{
+    color
 }
 
 ul{
@@ -33,7 +37,7 @@ th, td {
 }
 
 tr:nth-child(even){
-    background-color: #b1e5f2
+    background-color: #4ea0ff;
 }    
 
 th{
