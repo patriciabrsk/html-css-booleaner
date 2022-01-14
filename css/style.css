@@ -41,17 +41,19 @@ table {
     width: 100%;
 }
 
+.row-bg-light-blue{
+    background-color: #b1e5f2;
+}
+
 th, td {
     text-align: left;
     padding: 10px;
 }
 
-tr:nth-child(even){
-    background-color: #4ea0ff;
-}    
+
 
 th{
-    background-color: #20a9e5;
+    background-color: #4ea0ff; 
     color: #fff;
     padding: 10px;
 }    
